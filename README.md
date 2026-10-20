@@ -17,8 +17,6 @@ My Goals
 
 My Progress
 
-- [x] Create a GitHub account.
-- [x] Create my first repository.
 - [ ] Learn the fundamentals of cloud computing.
 - [ ] Learn basic Linux commands.
 - [ ] Build my first cloud project.
